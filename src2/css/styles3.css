@@ -1,0 +1,304 @@
+*{
+    font-family: Calibri;
+    margin: 0px;
+
+}
+
+.divv{
+    display: flex;
+
+    width: 100%;
+    height: 120px;
+    left: 0px;
+    top: 0px;
+
+    background: #2c0345;
+}
+
+
+.div1 {
+    margin-left: 25px;
+    width: 40%;
+    display: flex;
+}
+
+
+.div2{
+    width: 60%;
+    padding-top: 15px;
+}
+
+.div3{
+    width: 60%;
+}
+
+.indiv1{
+    width: 10px;
+    height: 10px;
+}
+
+.indiv2{
+    margin-top: 15px;
+    font-size: 40px;
+    text-decoration: none;
+    float: right;
+    margin-right: 50px;
+    color: white;
+
+}
+.indiv3{
+    font-size: 35px;
+    text-decoration: none;
+    float: right;
+    margin-right: 50px;
+    color: white;
+    margin-top: 35px;
+}
+
+.inputType{
+    margin-right: 10px;
+    position: fixed;
+    width: 500px;
+    height: 35px;
+    font-size: 35px;
+    border-radius: 10px;
+    margin-top: 5px;
+}
+
+.divv a:link {
+    text-decoration: none;
+    color: red;
+    font-weight: 50px;
+}
+
+.divv a:visited {
+    text-decoration: none;
+    font-weight: 50px;
+    color: white;
+}
+
+.divv a:hover {
+
+    text-decoration: none;
+    font-weight: 50px;
+    color: blue;
+
+}
+
+.divv a:active {
+
+    text-decoration: none;
+    font-weight: 50px;
+    color: black;
+
+}
+
+
+.container{
+    background-color: white;
+    min-height: 700px;
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+}
+
+
+.innerDiv2{
+    width: 100%;
+    background-color: white;
+    display: flex;
+    min-height: 500px;
+    margin-top: 50px;
+    padding: 200px;
+    padding-top: 105px;
+    background-color: #f1d9ff;
+    margin-right: 100px;
+    margin-left: 100px;
+
+}
+
+.inin23{
+    margin-left: 700px
+
+}
+
+.inp1{
+    height: 40px;
+    width: 500px;
+    padding: 5px 15px 5px 15px;
+    border-radius: 10px;
+    margin-top: 15px;
+    font-size: 30px;
+    margin: 10px;
+
+}
+
+.inp2{
+    height: 50px;
+    width: 500px;
+    padding: 5px 15px 5px 15px;
+    border-radius: 10px;
+    margin-top: 15px;
+    font-size: 30px;
+    margin: 10px;
+}
+
+.inp3{
+    height: 50px;
+    width: 500px;
+    padding: 5px 15px 5px 15px;
+    border-radius: 10px;
+    margin-top: 15px;
+    font-size: 30px;
+    margin: 10px;
+
+}
+
+.inp4{
+    height: 50px;
+    width: 500px;
+    padding: 5px 15px 5px 15px;
+    border-radius: 10px;
+    margin-top: 15px;
+    font-size: 30px;
+    margin: 10px;
+
+}
+
+.inp5{
+    height: 50px;
+    width: 500px;
+    padding: 5px 15px 5px 15px;
+    border-radius: 10px;
+    margin-top: 15px;
+    font-size: 30px;
+    margin: 10px;
+
+}
+
+.inp6{
+    height: 65px;
+    width: 533px;
+    padding: 5px 15px 5px 15px;
+    border-radius: 10px;
+    margin-top: 15px;
+    font-size: 30px;
+    margin: 10px;
+
+}
+
+.inp7{
+    height: 50px;
+    width: 500px;
+    padding: 5px 15px 5px 15px;
+    border-radius: 10px;
+    margin-top: 15px;
+    font-size: 30px;
+    margin: 10px;
+
+}
+
+.inp8{
+    height: 65px;
+    width: 533px;
+    padding: 5px 15px 5px 15px;
+    border-radius: 10px;
+    margin-top: 15px;
+    font-size: 30px;
+    margin: 10px;
+
+}
+
+.inp9{
+    height: 65px;
+    width: 533px;
+    padding: 5px 15px 5px 15px;
+    border-radius: 10px;
+    margin-top: 15px;
+    font-size: 30px;
+    margin: 10px;
+}
+
+.innerDiv3{
+    display: flex;
+    padding-top: 550px;
+}
+
+.buttoncl{
+    height: 60px;
+    width: 200px;
+    padding: 5px 15px 5px 15px;
+    border-radius: 10px;
+    background-color: #1395d1;
+    color: white;
+    font-size: 25px;
+}
+
+.ininin1{
+    font-size: 33px;
+    color: #46484a;
+
+}
+
+
+
+
+
+
+
+
+
+
+.footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    min-height: 200px;
+    background-color: #774a8f;
+    color: white;
+    display: flex;
+}
+
+.innerFooter1{
+    display: flex;
+    width: 40%;
+
+
+}
+.infooter1{
+    width: 20%;
+
+    margin-left: 100px;
+
+}
+
+.infooter2{
+    font-size: 27px;
+    color: white;
+    width: 80%;
+
+    float: right;
+    margin-right: 100px;
+    margin-top: 20px;
+    font-size: 30px;
+    margin-left: 200px;
+    font-family: DejaVu Sans Mono;
+}
+
+
+
+.innerFooter2{
+    width: 60%;
+}
+
+
+.infooter3{
+    float: right;
+    margin-right: 35%;
+}
+
+
+
+
+
